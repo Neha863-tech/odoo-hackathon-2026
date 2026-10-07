@@ -530,7 +530,7 @@ Built with ❤️ for the **Odoo Hackathon 2026**
 |---|---|---|
 | 👑 **Team Leader** | Richa Singh | [@richa](https://github.com/richastech-collab) |
 | 💻 **Developer** | Ankit | [@ankit](https://github.com/) |
-| 🎨 **Developer** | Neha | [@neha](https://github.com/) |
+| 🎨 **Developer** | Neha Kumari | [@Neha863-tech](https://github.com/Neha863-tech) |
 | 🔧 **Developer** | Azhan | [@azhan](https://github.com/) |
 
 <br/>
